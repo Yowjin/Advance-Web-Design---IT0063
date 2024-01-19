@@ -30,11 +30,12 @@ body{
 }
 
 .round-button {
-	border-radius: 10%;
-	height: 100px;
-	width: 100px;
+	height: 40px;
+	width: 150px;
 	margin-left: 460px;
 	margin-top: 250px;
+	border: black;
+	outline: outset #D0312d;
 }
 
 .profile-img{
@@ -43,13 +44,14 @@ body{
 	background-color: #ddd;
 	border-radius: 50%;
 	margin-bottom: 20px;
-	margin-left: 200px;
+	margin-left: 300px;
 	border: 10px solid #e3242b;
 	box-shadow: 6px 7px 9px 5px #990f02;
 }
 .profile-img img{
 	width: 100%;
 	border-radius: 50%;
+	
 }
 .box-1{
 	position: relative;
@@ -120,11 +122,11 @@ body{
 	padding: 18px 10px;
 }
 .name-div{
-	padding: 86px 0px 5px 20px;
+	padding: 86px 0px 5px 30px;
 	text-align: center;
 	letter-spacing: 3px;
 	margin-top: 30%;
-	margin-right: 60%;
+	margin-right: 10%;
 }
 .name-div h1{
 	margin-bottom: 10px;
